@@ -12,7 +12,7 @@ Dushan</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Laravel && Vue
+- 🌱 I’m currently learning Laravel, VueJS & NuxtJS
 
 - 📫 How to reach me **dushancimbalevic@gmail.com**
 
