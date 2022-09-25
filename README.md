@@ -18,7 +18,7 @@ Dushan</a></h1>
 
 - 📄 Know about my experiences <a href="https://dushanc.netlify.app/" target="blank">Resume</a>
 </div>
--
+------------------------------------------------------------------------------------------------------------------------------------------
 <br/>
 <hr/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
