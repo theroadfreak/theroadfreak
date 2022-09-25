@@ -5,7 +5,7 @@ Dushan</a></h1>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-
+<div>
 - 🔭 I’m currently working in <a href="https://venikom.com/" target="blank">Venikom</a>
 
 - 🌱 I’m currently Working on <a href="https://digitalhub.mk/" target="blank">DigitalHub</a>
@@ -17,10 +17,10 @@ Dushan</a></h1>
 - 📫 How to reach me **dushancimbalevic@gmail.com**
 
 - 📄 Know about my experiences <a href="https://dushanc.netlify.app/" target="blank">Resume</a>
-
+</div>
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br/>
--
--
+<hr/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
