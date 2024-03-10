@@ -8,7 +8,7 @@ Dushan</a></h1>
 <div>
 - 🔭 I’m currently working in <a href="https://digitalnode.com/" target="blank">DigitalNode</a> 
 
-- 🌱 I’m currently Working on Shopify Theme Development
+- 🌱 I’m currently Working on AI Shopify Store Tools for https://dropshipping.com/
 
 - 🤝 I’m available for freelancing.
 
