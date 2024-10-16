@@ -6,15 +6,12 @@ Dushan</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 <div>
-- 🔭 I’m currently working in <a href="https://digitalnode.com/" target="blank">DigitalNode</a> 
+<ul>
+<li> 🔭 I’m currently working in <a href="https://digitalnode.com/" target="blank">DigitalNode</a> </li>
+<li> 📫 How to reach me **dushancimbalevic@gmail.com** </li>
+<li> 📄 Know about my experiences <a href="https://linktr.ee/dushanc" target="blank">Resume</a>	</li>
+</ul>	
 
-- 🌱 I’m currently Working on AI Shopify Store Tools for https://dropshipping.com/
-
-- 🤝 I’m available for freelancing.
-
-- 📫 How to reach me **dushancimbalevic@gmail.com**
-
-- 📄 Know about my experiences <a href="https://linktr.ee/dushanc" target="blank">Resume</a>
 </div>
 <br/>
 <br/>
