@@ -8,6 +8,7 @@ Dushan</a></h1>
 <div>
 <ul>
 <li> 🔭 I’m currently working in <a href="https://digitalnode.com/" target="blank">DigitalNode</a> </li>
+<li> ⚙️ I’m working with Laravel and VueJS, sometimes Wordpress </li>
 <li> 📫 How to reach me **dushancimbalevic@gmail.com** </li>
 <li> 📄 Know about my experiences <a href="https://linktr.ee/dushanc" target="blank">Resume</a>	</li>
 </ul>	
