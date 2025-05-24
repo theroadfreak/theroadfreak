@@ -7,8 +7,8 @@ Dushan</a></h1>
 <p> 🔭 I’m currently working in <a href="https://digitalnode.com/" target="blank">DigitalNode</a> </p>
 <p> 🧠 Learning Rust</p>
 <p> ⚙️ I’m working with Laravel and VueJS, sometimes Wordpress </p>
-<p> 📫 How to reach me **dushancimbalevic@gmail.com** </p>
-<p> 📄 Know about my experiences <a href="https://dushanc.me" target="blank">Resume</a>	</p>
+<p> 📫 How to reach me <b> dushancimbalevic@gmail.com </b> </p>
+<p> 📄 My experience <a href="https://dushanc.me" target="blank">Resume</a>	</p>
 
 
 </div>
