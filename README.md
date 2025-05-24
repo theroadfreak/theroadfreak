@@ -3,14 +3,13 @@ Dushan</a></h1>
 <h3 align="center">A passionate and ambitious FullStack developer</h3>
 
 
-<div>
-<ul>
-<li> 🔭 I’m currently working in <a href="https://digitalnode.com/" target="blank">DigitalNode</a> </li>
-<li> 🧠 Learning Rust</li>
-<li> ⚙️ I’m working with Laravel and VueJS, sometimes Wordpress </li>
-<li> 📫 How to reach me **dushancimbalevic@gmail.com** </li>
-<li> 📄 Know about my experiences <a href="https://dushanc.me" target="blank">Resume</a>	</li>
-</ul>	
+<div align="center">
+<p> 🔭 I’m currently working in <a href="https://digitalnode.com/" target="blank">DigitalNode</a> </p>
+<p> 🧠 Learning Rust</p>
+<p> ⚙️ I’m working with Laravel and VueJS, sometimes Wordpress </p>
+<p> 📫 How to reach me **dushancimbalevic@gmail.com** </p>
+<p> 📄 Know about my experiences <a href="https://dushanc.me" target="blank">Resume</a>	</p>
+
 
 </div>
 <br/>
