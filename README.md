@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://linktr.ee/dushanc" target="blank">
 Dushan</a></h1>
-<h3 align="center">A passionate and ambitious FullStack developer from Kocani Macedonia 🇲🇰</h3>
+<h3 align="center">A passionate and ambitious FullStack developer</h3>
 
 
 <div>
